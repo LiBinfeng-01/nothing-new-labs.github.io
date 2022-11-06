@@ -1,3 +1,5 @@
 baseURL: https://nothing-new-labs.github.io/
 languageCode: en-us
 title: Noting New Labs
+theme: "PaperMod"
+
